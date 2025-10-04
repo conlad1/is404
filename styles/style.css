@@ -19,6 +19,14 @@ a {
     color: #72b3ff;
 }
 
+#home_nav {
+    color: #72b3ff;
+    text-align: center;
+    margin: 20px;
+    letter-spacing: 2px;
+    text-shadow: 0 1px 13px #09412d40;
+}
+
 input[type="file"] {
   display: block;
   margin: 32px auto 30px auto;
